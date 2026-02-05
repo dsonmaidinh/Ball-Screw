@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=UART_GND Pin=5-1
+Removed Pin From Net: NetName=ENCODER_GND Pin=5-2
+Added Pin To Net: NetName=ENCODER_GND Pin=5-1
+Added Pin To Net: NetName=UART_GND Pin=5-2

@@ -1,0 +1,44 @@
+Added Component: Designator=1(KF128_3P)
+Add component (AddParameter): Name = "Ma hang"; Value = "Domino KF128-3.81 3Pin"; VariantName = "[No Variations]"
+Added Component: Designator=2(KF128_3P)
+Add component (AddParameter): Name = "Ma hang"; Value = "Domino KF128-3.81 3Pin"; VariantName = "[No Variations]"
+Added Component: Designator=3(KF128_2P)
+Add component (AddParameter): Name = "Ma hang"; Value = "Domino KF128-3.81 2Pin"; VariantName = "[No Variations]"
+Added Component: Designator=4(KF128_2P)
+Add component (AddParameter): Name = "Ma hang"; Value = "Domino KF128-3.81 2Pin"; VariantName = "[No Variations]"
+Added Component: Designator=5(KF128_2P)
+Add component (AddParameter): Name = "Ma hang"; Value = "Domino KF128-3.81 2Pin"; VariantName = "[No Variations]"
+Added Component: Designator=STM1(STM32F103 KIT)
+Added Pin To Net: NetName=ENCODER_A Pin=3-1
+Added Pin To Net: NetName=ENCODER_A Pin=STM1-34
+Added Net: Name=ENCODER_A
+Added Pin To Net: NetName=ENCODER_B Pin=3-2
+Added Pin To Net: NetName=ENCODER_B Pin=STM1-36
+Added Net: Name=ENCODER_B
+Added Pin To Net: NetName=ENCODER_GND Pin=4-2
+Added Pin To Net: NetName=ENCODER_GND Pin=5-2
+Added Pin To Net: NetName=ENCODER_GND Pin=STM1-39
+Added Net: Name=ENCODER_GND
+Added Pin To Net: NetName=ENCODER_VCC Pin=4-1
+Added Pin To Net: NetName=ENCODER_VCC Pin=STM1-38
+Added Net: Name=ENCODER_VCC
+Added Pin To Net: NetName=MOTOR_P1 Pin=1-1
+Added Pin To Net: NetName=MOTOR_P1 Pin=STM1-26
+Added Net: Name=MOTOR_P1
+Added Pin To Net: NetName=MOTOR_P2 Pin=1-2
+Added Pin To Net: NetName=MOTOR_P2 Pin=STM1-27
+Added Net: Name=MOTOR_P2
+Added Pin To Net: NetName=MOTOR_PWM Pin=1-3
+Added Pin To Net: NetName=MOTOR_PWM Pin=STM1-28
+Added Net: Name=MOTOR_PWM
+Added Pin To Net: NetName=UART_GND Pin=2-1
+Added Pin To Net: NetName=UART_GND Pin=5-1
+Added Pin To Net: NetName=UART_GND Pin=STM1-19
+Added Net: Name=UART_GND
+Added Pin To Net: NetName=UART_RX Pin=2-2
+Added Pin To Net: NetName=UART_RX Pin=STM1-7
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=2-3
+Added Pin To Net: NetName=UART_TX Pin=STM1-6
+Added Net: Name=UART_TX
+Added Class: Name=F411CEU6

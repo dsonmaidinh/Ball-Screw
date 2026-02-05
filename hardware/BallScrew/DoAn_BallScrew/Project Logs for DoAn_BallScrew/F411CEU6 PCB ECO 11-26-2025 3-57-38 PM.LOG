@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=UART_GND Pin=5-2
+Removed Pin From Net: NetName=UART_GND Pin=STM1-19
+Added Component: Designator=6(KF128_2P)
+Add component (AddParameter): Name = "Ma hang"; Value = "Domino KF128-3.81 2Pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=4-2
+Added Pin To Net: NetName=GND Pin=5-2
+Added Pin To Net: NetName=GND Pin=6-1
+Added Pin To Net: NetName=GND Pin=STM1-19
+Added Pin To Net: NetName=GND Pin=STM1-39
+Added Net: Name=GND
+Added Pin To Net: NetName=VIN Pin=5-1
+Added Pin To Net: NetName=VIN Pin=6-2
+Added Net: Name=VIN
+Added Member To Class: ClassName=F411CEU6 Member=Component 6 KF128_2P

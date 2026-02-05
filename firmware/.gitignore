@@ -1,0 +1,59 @@
+# File .gitignore tổng quát cho STM32F1/F4 với CubeMX và Keil
+
+## Cấu trúc thư mục chung
+/[Dd]ebug/
+/[Rr]elease/
+/[Oo]bj/
+/[Ll]ist/
+
+## Keil IDE
+*.uvguix.*
+*.uvoptx
+*.uvprojx.user
+*.crf
+*.d
+*.o
+*.lst
+*.axf
+*.lnp
+*.dep
+*.iex
+*.htm
+*.sct
+*.map
+
+## CubeMX generated files
+/MDK-ARM/
+/EWARM/
+/TrueSTUDIO/
+/SW4STM32/
+/.mxproject
+*.launch
+
+## Build output
+*.elf
+*.hex
+*.bin
+
+## CubeMX project files - giữ lại file .ioc
+*.mxproject
+.project
+.cproject
+/.settings/
+
+## System files
+.DS_Store
+Thumbs.db
+
+## File tạm
+*.bak
+*.tmp
+*~
+*.swp
+
+## File phụ thuộc môi trường
+*.local
+
+## File đặc thù cho F1 hoặc F4 - bạn chỉ cần đổi số 1/4 ở đây
+Drivers/CMSIS/Device/ST/STM32F4xx/
+Drivers/STM32F4xx_HAL_Driver/
