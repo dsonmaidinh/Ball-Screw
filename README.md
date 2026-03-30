@@ -19,11 +19,11 @@ Dự án hướng tới xây dựng một hệ thống điều khiển vị trí
 
 ### Giao diện ứng dụng
 
-![Giao diện ứng dụng điều khiển BallScrew](App.png)
+![Giao diện ứng dụng điều khiển BallScrew](./docs/App.png)
 
 ### Demo hoạt động
 
-![Demo hoạt động BallScrew](BallScrew.gif)
+![Demo hoạt động BallScrew](./docs/BallScrew.gif)
 
 ## Hướng dẫn nhanh
 
